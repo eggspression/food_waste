@@ -172,8 +172,8 @@ requirements.txt
 ## Installation
 
 ```bash
-git clone <repo_url>
-cd food-waste-cv
+git clone https://github.com/eggspression/food_waste
+cd food-waste
 pip install -r requirements.txt
 ```
 
